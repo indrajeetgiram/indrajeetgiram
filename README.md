@@ -4,3 +4,7 @@
 💞️ I’m looking to collaborate on web develpemet projects, as the front end dev, to learn new dimentions of the front end lifecycles<br>
 😉Always learning new things, improving the fundamentals, and making new projects. 🚀<br>
 📫 How to reach me https://twitter.com/indracurious
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
