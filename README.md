@@ -1,4 +1,4 @@
-                                                                        😊Hi there, I'm indrajeet! 👋<br>
+😊Hi there, I'm indrajeet! 👋<br>
                                                                         
                                                                         
 👀 I’m interested in web developement<br>
