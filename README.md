@@ -1,12 +1,6 @@
+
+
 😊Hi there, I'm indrajeet! 👋<br>
-
-
-<!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indrajeetgiram&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indrajeetgiram&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
- -->
-
 
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
@@ -22,4 +16,5 @@ About me
 
 💬 How to reach me https://twitter.com/indracurious
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indrajeetgiram&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indrajeetgiram&layout=default)](https://github.com/anuraghazra/github-readme-stats)
