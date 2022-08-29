@@ -5,6 +5,9 @@
 😉Always learning new things, improving the fundamentals, and making new projects. 🚀<br>
 📫 How to reach me https://twitter.com/indracurious
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indrajeetgiram)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div class="container>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indrajeetgiram)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indrajeetgiram)](https://github.com/anuraghazra/github-readme-stats)
+            
+            </div>
