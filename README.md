@@ -7,10 +7,6 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indrajeetgiram)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indrajeetgiram&layout=background-color: lightgrey;
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indrajeetgiram&layout=border-box)](https://github.com/anuraghazra/github-readme-stats)
             
       
