@@ -17,4 +17,5 @@ About me
 💬 How to reach me https://twitter.com/indracurious
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indrajeetgiram&show_icons=true)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indrajeetgiram&layout=default)](https://github.com/anuraghazra/github-readme-stats)
